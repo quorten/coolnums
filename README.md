@@ -35,3 +35,5 @@ actually consciously using MinGW.  Although I've used it before in the
 year 2004, it was buried beneath the Bloodshed Dev-C++ IDE GUI so as
 to make it invisible.  It was also my first experience programming
 against the GNU Multiple Precision (GMP) bignum library.
+
+Again, good help was harder to find back then than it is today.
