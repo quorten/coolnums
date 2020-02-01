@@ -11,7 +11,7 @@ This is the configuration where primary development and testing was
 performed:
 
 * Windows XP Media Center Edition
-* MinGW GCC 3.4.5
+* MinGW32 GCC 3.4.5
 * GMP 4.2.4
 * Python 2.5.2
 
